@@ -1,0 +1,32 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "A library to clorify your console",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2rahulcoder/char-clorify.git"
+  },
+  "keywords": [
+    "console log colors",
+    "clorifylogs"
+  ],
+  "author": "Rahul <2rthoughts@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2rahulcoder/char-clorify/issues"
+  },
+  "homepage": "https://github.com/2rahulcoder/char-clorify#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+
+  "files":[
+    "lib/**/*"
+  ]
+}
