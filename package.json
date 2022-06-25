@@ -1,5 +1,5 @@
 {
-  "name": "npmpackage",
+  "name": "char-clorify",
   "version": "1.0.0",
   "description": "A library to clorify your console",
   "main": "lib/index.js",
